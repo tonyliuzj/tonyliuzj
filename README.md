@@ -36,7 +36,7 @@ I'm always looking to improve my skills and learn new technologies. Currently, I
 
 ## 📫 Get in Touch
 
-- **Email:** contact@tonyliu.cloud
+- **Email:** contact@tonyliu.uk
 - **LinkedIn:** [Tony Liu](https://www.linkedin.com/in/tonyliuzj)
 - **Twitter:** [@tonyliuzj](https://twitter.com/tonyliuzj)
 
