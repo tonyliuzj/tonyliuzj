@@ -10,15 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **fullstack** developer and cloud
 - **Frameworks & Libraries:** React, Node.js
 - **Cloud Platforms:** Oracle, Cloudflare
 - **DevOps Tools:** Docker, Kubernetes, GitHub Actions
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-## 🌟 Projects
-
-Here are a few of my projects:
-
-### [Is A Web App](https://github.com/isawebapp)
-- **Description:** Multiple web app and network tools online.
-- **Tech Stack:** JavaScript, React, Node.js, Python, MySQL
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 
 ## 🌱 Currently Learning
 
