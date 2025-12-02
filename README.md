@@ -31,10 +31,8 @@ I am continuously expanding my technical abilities. My current focus areas inclu
 
 - **Email:** contact@tonyliu.uk  
 - **LinkedIn:** https://www.linkedin.com/in/tonyliuzj  
-- **Twitter:** https://twitter.com/tonyliuzj  
 
 ---
 
-Thank you for visiting my profile.  
 Project details and case studies can be found on my portfolio website.
 
