@@ -1,37 +1,40 @@
-# Hi there, I'm Tony Liu! 👋
+# Hi, I'm Tony Liu
 
-Welcome to my GitHub profile! I'm a passionate **fullstack** developer and cloud enthusiast. Here you'll find a variety of projects that I've worked on, ranging from cloud computing solutions to open-source contributions. Feel free to explore and reach out if you have any questions or collaboration ideas!
+Welcome to my GitHub profile. I am a full-stack developer and cloud enthusiast with experience building scalable applications and cloud-native solutions. You can explore my projects and work in more detail on my portfolio website.
 
-## [Portfolio](https://tonyliu.cloud)
+## Portfolio  
+[https://tony-liu.com](https://tony-liu.com)
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
-- **Languages:** Python, JavaScript
-- **Frameworks & Libraries:** React, Node.js
-- **Cloud Platforms:** Oracle, Cloudflare
-- **DevOps Tools:** Docker, Kubernetes, GitHub Actions
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+- **Languages:** Python, JavaScript  
+- **Frameworks & Libraries:** React, Node.js  
+- **Cloud Platforms:** Oracle Cloud, Cloudflare  
+- **DevOps & Infrastructure:** Docker, Kubernetes, GitHub Actions  
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
 
-## 🌱 Currently Learning
+## Currently Learning
 
-I'm always looking to improve my skills and learn new technologies. Currently, I'm diving deeper into:
+I am continuously expanding my technical abilities. My current focus areas include:
 
-- Machine Learning with Python
-- LLM
-- Overlay Network
-- Network security
-- Domains
-- Virtualization
-- LXC Container
-- Docker
-- NAT
+- Machine Learning with Python  
+- Large Language Models (LLMs)  
+- Overlay Networks  
+- Network Security  
+- Domain & DNS Management  
+- Virtualization  
+- LXC Containers  
+- Docker Internals  
+- NAT and Networking Concepts  
 
-## 📫 Get in Touch
+## Get in Touch
 
-- **Email:** contact@tonyliu.uk
-- **LinkedIn:** [Tony Liu](https://www.linkedin.com/in/tonyliuzj)
-- **Twitter:** [@tonyliuzj](https://twitter.com/tonyliuzj)
+- **Email:** contact@tonyliu.uk  
+- **LinkedIn:** https://www.linkedin.com/in/tonyliuzj  
+- **Twitter:** https://twitter.com/tonyliuzj  
 
 ---
 
-Thank you for visiting my profile! Have a great day! 😊
+Thank you for visiting my profile.  
+Project details and case studies can be found on my portfolio website.
+
