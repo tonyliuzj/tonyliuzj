@@ -29,7 +29,7 @@ I am continuously expanding my technical abilities. My current focus areas inclu
 
 ## Get in Touch
 
-- **Email:** contact@tonyliu.uk  
+- **Email:** tony@liuzj.net
 - **LinkedIn:** https://www.linkedin.com/in/tonyliuzj  
 
 ---
