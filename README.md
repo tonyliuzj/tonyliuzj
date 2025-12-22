@@ -1,6 +1,6 @@
 # Hi, I'm Tony Liu
 
-Welcome to my GitHub profile. I am a full-stack developer and cloud enthusiast with experience building scalable applications and cloud-native solutions. You can explore my projects and work in more detail on my portfolio website.
+Welcome to my GitHub profile. I am learning in full-stack from backend to frontend, experience building scalable applications and cloud-native solutions. You can explore my projects and work in more detail on my portfolio website.
 
 ## Portfolio  
 [https://tony-liu.com](https://tony-liu.com)
