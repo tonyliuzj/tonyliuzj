@@ -1,31 +1,31 @@
 # Hi, I'm Tony Liu
 
-Welcome to my GitHub profile. I am learning in full-stack from backend to frontend, experience building scalable applications and cloud-native solutions. You can explore my projects and work in more detail on my portfolio website.
+Welcome to my GitHub profile. I’m a full-stack learner, building my skills across both backend and frontend development. I enjoy learning by building open-source and SaaS projects, exploring new technologies, and improving my understanding of how complete applications are designed and developed.
+
+You can explore my projects and work in more detail on my portfolio website.
 
 ## Portfolio  
 [https://tony-liu.com](https://tony-liu.com)
 
-## Technologies & Tools
+## Technologies and Tools that I focus on
 
-- **Languages:** Python, JavaScript  
-- **Frameworks & Libraries:** React, Node.js  
-- **Cloud Platforms:** Oracle Cloud, Cloudflare  
-- **DevOps & Infrastructure:** Docker, Kubernetes, GitHub Actions  
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
+- **Languages:** LUA, Python, JavaScript
+- **Frameworks & Libraries:** React, Node.js
+- **Cloud Platforms:** Oracle Cloud, Cloudflare, AWS
+- **Infrastructure and Operations:** Docker, Kubernetes, Nginx
+- **Databases:** MySQL, PostgreSQL, SQLite, MariaDB
 
-## Currently Learning
+## Currently Learning in my interests
 
-I am continuously expanding my technical abilities. My current focus areas include:
+I am continuously expanding my technical abilities. My current interests include:
 
 - Machine Learning with Python  
 - Large Language Models (LLMs)  
 - Overlay Networks  
-- Network Security  
-- Domain & DNS Management  
-- Virtualization  
-- LXC Containers  
-- Docker Internals  
-- NAT and Networking Concepts  
+- Domains and DNS    
+- Virtualization, KVM and LXC Containers  
+- NAT and Networking Concepts
+- Network engineering, BGP and ASNs
 
 ## Get in Touch
 
@@ -34,5 +34,5 @@ I am continuously expanding my technical abilities. My current focus areas inclu
 
 ---
 
-Project details and case studies can be found on my portfolio website.
+Project details and demo websites can be found on my portfolio website.
 
